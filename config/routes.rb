@@ -12,4 +12,7 @@ Rails.application.routes.draw do
   get 'xavierwatson', to: 'pages#XavierWatson', as: 'xavierwatson'
 
   get 'prav-raj', to: 'pages#prav-raj', as: 'prav-raj'
+
+  get 'dominus-chaos', to: 'pages#Dominus-Chaos', as: 'dominus-chaos'
+
 end
