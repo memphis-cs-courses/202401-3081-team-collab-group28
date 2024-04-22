@@ -1,5 +1,5 @@
 class PagesController < ApplicationController
-  def username
-    
+  def jaylonT23
+
   end
   
